@@ -15,7 +15,6 @@ public class MainActivity extends AppCompatActivity {
     private RadioGroup radiogroup;
     private ViewPager viewpager;
     private int[] buttonid;
-
     private Fragment currentf;
     private HomeFragmentActivity homeFragment;
     private ClassifyFragmentActivity  classifyFragment;
